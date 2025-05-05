@@ -29,7 +29,7 @@ MIMO-OFDM 是现代无线通信系统（如 4G LTE、5G、WiFi 等）的核心�
 ## 使用方法
 
 ```bash
-git clone https://github.com/username/MIMO_OFDM-Python-Code.git
+git clone git@github.com:Neutrin1/MIMO_OFDM-Python-Code.git
 cd MIMO_OFDM-Python-Code
 ```
 
